@@ -1,12 +1,12 @@
-# 🔢 Fibonacci Java
+#  Fibonacci Java
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Este projeto foi desenvolvido como parte dos meus estudos de programação em Java.
 
 O objetivo é criar um programa capaz de identificar se um número inteiro informado pelo usuário pertence ou não à sequência de Fibonacci.
 
-## 🧮 O que é a sequência de Fibonacci?
+##  O que é a sequência de Fibonacci?
 
 É uma sequência numérica em que cada número corresponde à soma dos dois números anteriores.
 
@@ -36,7 +36,7 @@ Regra matemática:
 - Operadores matemáticos e relacionais;
 - Interrupção de laços com `break`.
 
-## ▶️ Como executar
+##  Como executar
 
 1. Tenha o JDK instalado.
 2. Clone este repositório.
@@ -44,7 +44,7 @@ Regra matemática:
 4. Execute o método `main`.
 5. Digite um número inteiro para verificar se pertence à sequência.
 
-## 🧪 Exemplos de execução
+##  Exemplos de execução
 
 **Entrada:**
 ```text
@@ -66,11 +66,11 @@ Digite um número: 186
 186 Não pertence à sequência de Fibonacci!
 ```
 
-## 🎯 Objetivo de aprendizagem
+##  Objetivo de aprendizagem
 
 Praticar lógica de programação, estruturas de repetição, condicionais e resolução de problemas matemáticos utilizando Java.
 
-## 👨‍💻 Autor
+##  Autor
 
 **Bruno Henrique**
 
